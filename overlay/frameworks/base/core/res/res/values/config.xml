@@ -140,7 +140,9 @@
     <integer name="config_defaultNotificationLedOff">9000</integer>
 
     <!-- Default value for led color when battery is medium charged
+
          We set this to orange as low is red and charged is green -->
+
     <integer name="config_notificationsBatteryMediumARGB">0xFFFFBB00</integer>
 
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
